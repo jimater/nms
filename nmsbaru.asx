@@ -1,9 +1,21 @@
 <ASX version="3.0" bannerbar="fixed">
 
 <ENTRY>
-<TITLE>Radio Ardan 105.9 MHz</TITLE>
-<ABSTRACT>Setiap Kamis 22:00 WIB</ABSTRACT>
-<REF HREF="http://listento.ardanradio.com:1059/;"/>
+<TITLE>Ruang Komputer Angker</TITLE>
+<ABSTRACT>22 Agustus 2019</ABSTRACT>
+<REF HREF="https://archive.org/download/nms2019/20190822%20-%20Ruang%20Komputer%20Angker.mp3"/>
+</ENTRY>
+
+<ENTRY>
+<TITLE>Rumah Baru Berhantu</TITLE>
+<ABSTRACT>22 Agustus 2019</ABSTRACT>
+<REF HREF="https://archive.org/download/nms2019/20190822%20-%20Rumah%20Baru%20Berhantu.mp3"/>
+</ENTRY>
+
+<ENTRY>
+<TITLE>Tower Berhantu</TITLE>
+<ABSTRACT>22 Agustus 2019</ABSTRACT>
+<REF HREF="https://archive.org/download/nms2019/20190822%20-%20Tower%20Berhantu.mp3"/>
 </ENTRY>
 
 </ASX>
