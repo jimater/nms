@@ -1,6 +1,12 @@
 <ASX version="3.0" bannerbar="fixed">
 
 <ENTRY>
+<TITLE>Cerita Viral</TITLE>
+<ABSTRACT>Silakan Buka Radio Station</ABSTRACT>
+<REF HREF="http://listento.ardanradio.com:1059/radio.mp3"/>
+</ENTRY>
+
+<ENTRY>
 <TITLE>Apartemen Lantai 5</TITLE>
 <ABSTRACT>24 Oktober 2019</ABSTRACT>
 <REF HREF="https://archive.org/download/nms2019/20191024%20-%20Apartemen%20Lantai%205.mp3"/>
